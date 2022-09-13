@@ -34,8 +34,7 @@ Follow the process described in the course to `eb init` a new application and `e
 ####  URL TO THE DEPLOYMENT 
 ###  my EBS Endpoint
 
-http://image-filter-app-0494-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LL3IcidnkmpVbjmmL93gsmv-pIlTpMXNVQ&usqp=CAU
-
+http://image-filter-app-8838-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt91325ed473036072/631f9d17eafef93836ce03bd/Neymar_Mbappe_2022-23.png
 
 
 
@@ -67,5 +66,5 @@ Add your own domain name and have it point to the running services (try adding a
 
 ####  URL TO THE DEPLOYMENT 
 
-http://image-filter-app-0494-dev2.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LL3IcidnkmpVbjmmL93gsmv-pIlTpMXNVQ&usqp=CAU
+http://image-filter-app-8838-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt91325ed473036072/631f9d17eafef93836ce03bd/Neymar_Mbappe_2022-23.png
 
